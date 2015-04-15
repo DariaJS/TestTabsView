@@ -1,0 +1,13 @@
+{
+  "name": "TabsView",
+  "version": "0.0.1",
+  "description": "TabsView is a component which displays a set of tabs, one of which is active. Each tab has an internal unique name by which it can be accessed from the application code, and the title, which is displayed when displaying.",
+  "author": "Daria Limanskaya",
+  "repository": "DariaJS/TestTabsView",
+  "dependencies": {
+    "angular2": ">2.0.0-alpha.14",
+    "rtts_assert": ">2.0.0-alpha.7",
+    "systemjs": ">0.14.1",
+    "zone.js": ">0.4.1"
+  }
+}
